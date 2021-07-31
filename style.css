@@ -1,0 +1,26 @@
+ 
+ /* for header part */
+.For-header-bg {
+     background-color: #264653;;
+
+}
+
+#bg-dangers {
+   background-color: #E76F51
+   
+}
+
+/* for-img-gray scale */
+
+.bike-filter img{
+    filter: grayscale(100%);
+}
+
+/* offer part hover */
+
+.Discount-bike:hover .discount-img img{
+ 
+    transition: transform 2s;
+    transform: rotate(10deg);
+}
+ 
